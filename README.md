@@ -42,7 +42,8 @@ Head-to-head on the same 5 images:
 | Avg L2 perturbation | 5.49 | 2.07 |
 | Queries per image | ~40 | ~1000s |
 
-![Clean vs HSJ adversarial](images/hsj_comparison.png)
+![Clean vs HSJ adversarial](hsj_comparison.png)
+![PGD adversarial example](pgd_comparison.png)
 
 ## What I learned
 
